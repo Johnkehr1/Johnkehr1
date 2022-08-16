@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Johnkehr1
 - 👀 I’m interested in data systems 
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 Johnkehr1/Johnkehr1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
